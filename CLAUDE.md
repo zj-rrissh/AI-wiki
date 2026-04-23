@@ -76,9 +76,17 @@
 - `concepts/`: 原子化概念条目。文件名即概念名。
 - `summaries/`: 针对 `raw/` 文件的逐篇精简摘要。
 - `methods/`: 沉淀方法论和操作流程。
-- `indexes/`: 
+- `projects/`: 任务/产出类编译结果。文件名应体现产出性质（如 `阶段二_产出.md`）。
+- `indexes/`:
     - `index.md`: 全局索引，使用 Dataview 动态展示 `wiki/` 下的最新内容。
     - `log.md`: 记录 Claude 的操作日志（自动追加）。
+
+> **type 字段规范**：
+> - `concept`：知识为主，可跨领域复用
+> - `project`：任务/产出为主，具有明确完成状态
+> - `summary`：对原始资料的精简摘要
+> - `method`：方法论和操作流程
+> - `index`：索引入口
 
 
 ## 知识编译规则
