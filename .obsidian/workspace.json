@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "README"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "CLAUDE 的大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -171,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "research/wiki/concepts/大模型基础认知.md"
+                "file": "README.md"
               },
               "icon": "lucide-info",
-              "title": "大模型基础认知的笔记属性"
+              "title": "README的笔记属性"
             }
           },
           {
@@ -192,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,8 +206,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13da3f36789813c0",
+  "active": "6ca9771cf90b2e61",
   "lastOpenFiles": [
+    "README.md.tmp.4045.1776958767522",
+    "CLAUDE.md",
+    "README.md",
+    "README.md.tmp.4045.1776958288423",
     "research/raw/notes/LangChain学习笔记.md",
     "sedh5XLYv",
     "CLAUDE.md.tmp.1920.1776956665035",
@@ -217,7 +221,6 @@
     "research/wiki/summaries/阶段二_编译.md",
     "research/wiki/indexes/index.md",
     "research/wiki/concepts/大模型基础认知.md",
-    "CLAUDE.md",
     "research/wiki/indexes/log.md",
     "2026-04-23.md",
     "research/raw/articles/构建高效的Agent译文&笔记.md",
@@ -238,12 +241,10 @@
     "research/wiki/indexes/log.md.tmp.66010.1776941929443",
     "research/wiki/indexes/index.md.tmp.66010.1776941929360",
     "research/wiki/summaries/大模型基础认知_编译.md.tmp.66010.1776941891507",
-    "research/wiki/summaries/阶段三_编译.md.tmp.66010.1776941890137",
     "RECOMMEND.md",
     "research/wiki/reflections/未命名.md",
     "research/raw/notes/Agent_Loading/大模型基础认知.md",
     "research/raw/notes/Agent_Loading/导航.md",
-    "research/raw/notes/Agent_Loading/阶段二.md",
     "research/raw/img/2-transformer.png",
     "research/raw/img/v-1.svg",
     "research/raw/img/v-0.svg"
