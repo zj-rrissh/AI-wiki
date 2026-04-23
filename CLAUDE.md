@@ -119,7 +119,7 @@
 - **Tasks**: 汇总 `raw/tasks/` 中符合条件（有日期且非低优先级）的任务，并展示在 `wiki/indexes/index.md` 仪表盘中。
 
 
-### 4. Obsidian CLI (命令行界面)
+## Obsidian CLI (命令行界面)
 Obsidian 提供 CLI，可通过 `cmd.exe /c "obsidian <command>"` 调用（WSL2 环境下）。
 
 **调用格式**：所有命令必须通过 `cmd.exe /c "obsidian <command> vault=AIWIKI"` 执行。

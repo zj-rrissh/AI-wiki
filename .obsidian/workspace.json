@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "191dfcd9209b30d3",
+        "id": "2dfe1450813ef228",
         "type": "tabs",
         "children": [
           {
-            "id": "f13083e106446565",
+            "id": "13da3f36789813c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/wiki/concepts/大模型基础认知.md",
-                "mode": "preview",
+                "file": "CLAUDE.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "大模型基础认知"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research/wiki/concepts/大模型基础认知.md",
+                "file": "CLAUDE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大模型基础认知 的大纲"
+              "title": "CLAUDE 的大纲"
             }
           },
           {
@@ -206,20 +206,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f13083e106446565",
+  "active": "13da3f36789813c0",
   "lastOpenFiles": [
-    "research/wiki/concepts/大模型基础认知.md",
-    "research/wiki/indexes/index.md",
-    "research/wiki/indexes/index.md.tmp.66010.1776945645110",
-    "research/wiki/indexes/index.md.tmp.66010.1776945644490",
-    "CLAUDE.md",
-    "research/wiki/indexes/log.md",
-    "research/wiki/concepts/RAG.md",
-    "research/wiki/concepts/LCEL.md",
-    "research/wiki/concepts/Agent设计思维.md",
-    "research/wiki/concepts/工具调用框架.md",
+    "research/raw/notes/LangChain学习笔记.md",
+    "sedh5XLYv",
+    "CLAUDE.md.tmp.1920.1776956665035",
+    "research/wiki/projects",
+    "research/raw/notes/LlamaIndex框架学习.md",
     "research/wiki/summaries/导航_编译.md",
     "research/wiki/summaries/阶段二_编译.md",
+    "research/wiki/indexes/index.md",
+    "research/wiki/concepts/大模型基础认知.md",
+    "CLAUDE.md",
+    "research/wiki/indexes/log.md",
+    "2026-04-23.md",
+    "research/raw/articles/构建高效的Agent译文&笔记.md",
+    "未命名.canvas",
+    "research/wiki/concepts/LCEL.md",
+    "research/raw/articles/面向开发者的LLM入门教程.md",
+    "Clippings/构建高效的Agent译文&笔记.md",
+    "Clippings",
+    "research/wiki/indexes/index.md.tmp.66010.1776945645110",
+    "research/wiki/indexes/index.md.tmp.66010.1776945644490",
+    "research/wiki/concepts/RAG.md",
+    "research/wiki/concepts/Agent设计思维.md",
+    "research/wiki/concepts/工具调用框架.md",
     "research/wiki/summaries/agentVS传统app_编译.md",
     "research/wiki/summaries/LangChain学习笔记_编译.md",
     "research/wiki/summaries/阶段三_编译.md",
@@ -228,22 +239,11 @@
     "research/wiki/indexes/index.md.tmp.66010.1776941929360",
     "research/wiki/summaries/大模型基础认知_编译.md.tmp.66010.1776941891507",
     "research/wiki/summaries/阶段三_编译.md.tmp.66010.1776941890137",
-    "research/wiki/concepts/Agent设计思维.md.tmp.66010.1776941888821",
-    "research/wiki/concepts/工具调用框架.md.tmp.66010.1776941888235",
-    "research/wiki/concepts/LCEL.md.tmp.66010.1776941882786",
-    "research/wiki/summaries/导航_编译.md.tmp.66010.1776941879250",
     "RECOMMEND.md",
     "research/wiki/reflections/未命名.md",
     "research/raw/notes/Agent_Loading/大模型基础认知.md",
     "research/raw/notes/Agent_Loading/导航.md",
     "research/raw/notes/Agent_Loading/阶段二.md",
-    "research/raw/notes/LlamaIndex框架学习.md",
-    "research/raw/notes/LangChain学习笔记.md",
-    "research/raw/notes/Agent_Loading/阶段三.md",
-    "copilot/memory/Recent Conversations.md",
-    "copilot/copilot-conversations/我现在学到了第三阶段的Llamaindex部分，使用tasks插件帮我指定@20260423_164739.md",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "未命名.canvas",
     "research/raw/img/2-transformer.png",
     "research/raw/img/v-1.svg",
     "research/raw/img/v-0.svg"
