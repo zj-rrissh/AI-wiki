@@ -119,6 +119,44 @@
 - **Tasks**: 汇总 `raw/tasks/` 中符合条件（有日期且非低优先级）的任务，并展示在 `wiki/indexes/index.md` 仪表盘中。
 
 
+### 4. Obsidian CLI (命令行界面)
+Obsidian 提供 CLI，可通过 `cmd.exe /c "obsidian <command>"` 调用（WSL2 环境下）。
+
+**调用格式**：所有命令必须通过 `cmd.exe /c "obsidian <command> vault=AIWIKI"` 执行。
+
+**常用命令速查**：
+
+| 用户意图 | CLI 命令 |
+|---------|---------|
+| 搜索笔记内容 | `obsidian search query=<关键词>` |
+| 创建新文件 | `obsidian create name=<文件名> path=<路径> content=<内容>` |
+| 读取文件内容 | `obsidian read file=<文件名>` 或 `path=<路径>` |
+| 追加内容到文件 | `obsidian append file=<文件名> content=<内容>` |
+| 移动/重命名文件 | `obsidian move file=<文件名> to=<新路径>` |
+| 删除文件 | `obsidian delete file=<文件名>` |
+| 查看待办任务 | `obsidian tasks todo=true` |
+| 标记任务完成 | `obsidian task ref=<路径:行号> done` |
+| 设置文件属性 | `obsidian property:set name=<属性名> value=<值> file=<文件名>` |
+| 读取文件属性 | `obsidian property:read name=<属性名> file=<文件名>` |
+| 列出所有标签 | `obsidian tags` |
+| 查看某标签关联的文件 | `obsidian tag name=<标签>` |
+| 列出所有文件 | `obsidian files folder=<路径>` |
+| 列出孤立文件（无反向链接） | `obsidian orphans` |
+| 列出断链（引用但不存在） | `obsidian unresolved` |
+| 列出反向链接 | `obsidian backlinks file=<文件名>` |
+| 列出正向链接 | `obsidian links file=<文件名>` |
+| 查看文件大纲（标题结构） | `obsidian outline file=<文件名>` |
+| 查看 vault 统计信息 | `obsidian vault info=files` |
+| 列出 installed 插件 | `obsidian plugins` |
+| 启用/禁用插件 | `obsidian plugin:enable id=<插件ID>` / `plugin:disable` |
+
+**自然语言映射示例**：
+- "帮我找所有关于 RAG 的笔记" → `obsidian search query=RAG vault=AIWIKI`
+- "在 projects 创建阶段四产出.md" → `obsidian create name=阶段四产出.md path=research/wiki/projects content=...`
+- "查看有哪些待完成的 task" → `obsidian tasks todo=true vault=AIWIKI`
+- "把阶段二_编译.md 移到 projects 文件夹" → `obsidian move file=阶段二_编译.md to=research/wiki/projects/阶段二_编译.md`
+- "给大模型基础认知.md 添加标签 AI" → `obsidian property:set name=tags value=[AI] file=大模型基础认知.md`
+
 ## 数据结构要求
 
 所有新建或修改的 `.md` 文件必须严格包含以下 YAML 区块：
