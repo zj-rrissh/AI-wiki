@@ -11,14 +11,10 @@
             "id": "13da3f36789813c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "新标签页"
             }
           }
         ]
@@ -156,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "research/wiki/indexes/2026-04-24_待办日记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "2026-04-24_待办日记 的大纲"
             }
           },
           {
@@ -171,10 +167,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "research/wiki/indexes/2026-04-24_待办日记.md"
               },
               "icon": "lucide-info",
-              "title": "README的笔记属性"
+              "title": "2026-04-24_待办日记的笔记属性"
             }
           },
           {
@@ -192,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 306.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,11 +202,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ca9771cf90b2e61",
+  "active": "13da3f36789813c0",
   "lastOpenFiles": [
-    "README.md.tmp.4045.1776958767522",
-    "CLAUDE.md",
+    "research/wiki/concepts/RAG.md",
     "README.md",
+    "CLAUDE.md",
+    "research/wiki/concepts/大模型基础认知.md",
+    "research/wiki/concepts/工具调用框架.md",
+    "research/wiki/concepts/Agent设计思维.md",
+    "research/wiki/concepts/LCEL.md",
+    "research/wiki/indexes/2026-04-24_待办日记.md",
+    "research/wiki/indexes/index.md",
+    "research/wiki/indexes/log.md",
+    "research/wiki/indexes/log.md.tmp.4045.1776959153521",
+    "research/wiki/indexes/2026-04-24_待办日记.md.tmp.4045.1776959145252",
+    "未命名.canvas",
+    "README.md.tmp.4045.1776958767522",
     "README.md.tmp.4045.1776958288423",
     "research/raw/notes/LangChain学习笔记.md",
     "sedh5XLYv",
@@ -219,32 +226,20 @@
     "research/raw/notes/LlamaIndex框架学习.md",
     "research/wiki/summaries/导航_编译.md",
     "research/wiki/summaries/阶段二_编译.md",
-    "research/wiki/indexes/index.md",
-    "research/wiki/concepts/大模型基础认知.md",
-    "research/wiki/indexes/log.md",
     "2026-04-23.md",
     "research/raw/articles/构建高效的Agent译文&笔记.md",
-    "未命名.canvas",
-    "research/wiki/concepts/LCEL.md",
     "research/raw/articles/面向开发者的LLM入门教程.md",
     "Clippings/构建高效的Agent译文&笔记.md",
     "Clippings",
     "research/wiki/indexes/index.md.tmp.66010.1776945645110",
     "research/wiki/indexes/index.md.tmp.66010.1776945644490",
-    "research/wiki/concepts/RAG.md",
-    "research/wiki/concepts/Agent设计思维.md",
-    "research/wiki/concepts/工具调用框架.md",
     "research/wiki/summaries/agentVS传统app_编译.md",
     "research/wiki/summaries/LangChain学习笔记_编译.md",
     "research/wiki/summaries/阶段三_编译.md",
     "research/wiki/summaries/大模型基础认知_编译.md",
-    "research/wiki/indexes/log.md.tmp.66010.1776941929443",
-    "research/wiki/indexes/index.md.tmp.66010.1776941929360",
-    "research/wiki/summaries/大模型基础认知_编译.md.tmp.66010.1776941891507",
     "RECOMMEND.md",
     "research/wiki/reflections/未命名.md",
     "research/raw/notes/Agent_Loading/大模型基础认知.md",
-    "research/raw/notes/Agent_Loading/导航.md",
     "research/raw/img/2-transformer.png",
     "research/raw/img/v-1.svg",
     "research/raw/img/v-0.svg"
