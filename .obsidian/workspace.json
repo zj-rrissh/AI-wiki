@@ -11,10 +11,14 @@
             "id": "13da3f36789813c0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "research/wiki/concepts/大模型基础认知.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "大模型基础认知"
             }
           }
         ]
@@ -202,46 +206,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13da3f36789813c0",
+  "active": "6ca9771cf90b2e61",
   "lastOpenFiles": [
+    "research/raw/articles/构建高效的Agent译文&笔记.md",
+    "research/raw/notes/LlamaIndex框架学习.md",
+    "research/raw/notes/LangChain学习笔记.md",
+    "research/raw/img/v-1.svg",
+    "research/raw/img/v-0.svg",
+    "research/raw/img/2-transformer.png",
+    "research/wiki/concepts/Agent设计思维.md",
+    "research/wiki/concepts/大模型基础认知.md",
+    "research/wiki/summaries/LangChain学习笔记_编译.md",
+    "research/wiki/concepts/Agent设计思维 1.md",
+    "research/wiki/summaries/agentVS传统app_编译.md",
+    "research/wiki/summaries/阶段三_编译.md",
+    "research/wiki/summaries/阶段二_编译.md",
+    "research/wiki/summaries/导航_编译.md",
+    "research/wiki/summaries/大模型基础认知_编译.md",
+    "research/wiki/concepts/工具调用框架.md",
     "research/wiki/concepts/RAG.md",
+    "research/wiki/concepts/LCEL.md",
+    "research/wiki/indexes/log.md",
+    "research/wiki/indexes/index.md",
     "README.md",
     "CLAUDE.md",
-    "research/wiki/concepts/大模型基础认知.md",
-    "research/wiki/concepts/工具调用框架.md",
-    "research/wiki/concepts/Agent设计思维.md",
-    "research/wiki/concepts/LCEL.md",
     "research/wiki/indexes/2026-04-24_待办日记.md",
-    "research/wiki/indexes/index.md",
-    "research/wiki/indexes/log.md",
     "research/wiki/indexes/log.md.tmp.4045.1776959153521",
     "research/wiki/indexes/2026-04-24_待办日记.md.tmp.4045.1776959145252",
     "未命名.canvas",
     "README.md.tmp.4045.1776958767522",
     "README.md.tmp.4045.1776958288423",
-    "research/raw/notes/LangChain学习笔记.md",
     "sedh5XLYv",
     "CLAUDE.md.tmp.1920.1776956665035",
     "research/wiki/projects",
-    "research/raw/notes/LlamaIndex框架学习.md",
-    "research/wiki/summaries/导航_编译.md",
-    "research/wiki/summaries/阶段二_编译.md",
     "2026-04-23.md",
-    "research/raw/articles/构建高效的Agent译文&笔记.md",
     "research/raw/articles/面向开发者的LLM入门教程.md",
     "Clippings/构建高效的Agent译文&笔记.md",
     "Clippings",
     "research/wiki/indexes/index.md.tmp.66010.1776945645110",
     "research/wiki/indexes/index.md.tmp.66010.1776945644490",
-    "research/wiki/summaries/agentVS传统app_编译.md",
-    "research/wiki/summaries/LangChain学习笔记_编译.md",
-    "research/wiki/summaries/阶段三_编译.md",
-    "research/wiki/summaries/大模型基础认知_编译.md",
     "RECOMMEND.md",
-    "research/wiki/reflections/未命名.md",
-    "research/raw/notes/Agent_Loading/大模型基础认知.md",
-    "research/raw/img/2-transformer.png",
-    "research/raw/img/v-1.svg",
-    "research/raw/img/v-0.svg"
+    "research/wiki/reflections/未命名.md"
   ]
 }
