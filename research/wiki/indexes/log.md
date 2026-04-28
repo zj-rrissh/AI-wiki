@@ -55,3 +55,40 @@
 
 - 知识学习：阶段四 - LangGraph、Agent循环设计、多Agent协作
 - 产出目标：编译阶段四笔记，创建 LangGraph 概念条目
+
+---
+
+## 2026-04-28
+
+### 编译任务
+
+**源目录**：`raw/articles/`
+
+**处理文件**（12篇，均为 L1 快速摘要）：
+
+| 文章 | 来源 | 核心概念 |
+|------|------|----------|
+| Effective harnesses for long-running agents | Anthropic | Initializer+Coding Agent 双组件、Feature List |
+| Demystifying evals for AI agents | Anthropic | Grader 类型、pass@k vs pass^k、Eval 饱和 |
+| Effective context engineering for AI agents | Anthropic | 上下文衰减、三大压缩技术对比 |
+| Contextual Retrieval in AI Systems | Anthropic | 上下文嵌入+BM25、重排序、49%/67% 提升 |
+| Equipping agents for the real world with Agent Skills | Anthropic | SKILL.md 格式、渐进式披露 |
+| Making Claude Code more secure and autonomous with sandboxing | Anthropic | 文件系统+网络双重隔离、84% 提示减少 |
+| Quantifying infrastructure noise in agentic coding evals | Anthropic | 资源配置混淆变量、6个百分点差异 |
+| Scaling Managed Agents | Anthropic | Brain-Hand-Session 解耦、cattle vs pet |
+| The think tool | Anthropic | τ-Bench pass^k、54% 相对提升 |
+| Indexing | LlamaIndex | VectorStoreIndex、Top-K 检索 |
+| Designing AI resistant technical evaluations | Anthropic | v1→v3 版本迭代、Zachtronics 设计 |
+| Harness design for long-running application development | Anthropic | Generator-Evaluator 架构、Sprint Contract |
+
+### 编译结果
+
+| 类型 | 数量 |
+|------|------|
+| summaries | 12 |
+| concepts | 0（均采用 L1，未创建新概念） |
+| 总产出 | 12 |
+
+### Git 提交
+
+- `89fd919` - comp: add 12 summaries from raw articles
