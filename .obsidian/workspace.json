@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b59bf0f35f1eced8",
+        "id": "1518563569868877",
         "type": "tabs",
         "children": [
           {
-            "id": "e63152014e128381",
+            "id": "a0e9ace0fe5e7768",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "README.md",
-                "bFile": "README.md",
-                "aRef": ""
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: README  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -192,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 497.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e63152014e128381",
+  "active": "ceee63c1f61f47c1",
   "lastOpenFiles": [
     "README.md",
     "research/wiki/summaries/Demystifying evals for AI agents.md",

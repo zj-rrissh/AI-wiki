@@ -39,12 +39,6 @@ research/
 2. 高价值概念 → 沉淀到 **wiki/concepts/**
 3. 全局索引 **wiki/indexes/index.md** 自动追踪知识关联
 
-## 学习路径
-
-阶段0 → 阶段1 → 阶段2 → 阶段3 → 阶段4 → 阶段5 → 阶段6
-
-覆盖：Python基础 → 大模型原理 → LangChain/LlamaIndex → Agent核心范式 → 生产级工程
-
 ## 技术栈
 
 - **Obsidian** - 笔记管理与双向链接
