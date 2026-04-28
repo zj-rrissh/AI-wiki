@@ -11,14 +11,14 @@
             "id": "e63152014e128381",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "research/wiki/summaries/Demystifying evals for AI agents.md",
-                "mode": "source",
-                "source": false
+                "aFile": "README.md",
+                "bFile": "README.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Demystifying evals for AI agents"
+              "icon": "diff",
+              "title": "Diff: README  (Working Tree)"
             }
           }
         ]
@@ -192,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,6 +208,11 @@
   },
   "active": "e63152014e128381",
   "lastOpenFiles": [
+    "README.md",
+    "research/wiki/summaries/Demystifying evals for AI agents.md",
+    "README.md.tmp.1488.1777380774742",
+    "README.md.tmp.1488.1777380755084",
+    "README.md.tmp.1488.1777380725064",
     "research/wiki/indexes/log.md.tmp.1484.1777380455719",
     "research/wiki/indexes/index.md.tmp.1484.1777380421397",
     "research/wiki/methods/SprintContract协商机制.md",
@@ -221,12 +226,8 @@
     "research/wiki/methods/三Agent架构.md",
     "research/wiki/methods/三Agent架构.md.tmp.1484.1777380391995",
     "research/wiki/methods/Generator-Evaluator双组件架构.md",
-    "research/wiki/methods/Generator-Evaluator双组件架构.md.tmp.1484.1777380391356",
     "research/wiki/summaries/Designing AI resistant technical evaluations.md",
-    "research/wiki/summaries/Demystifying evals for AI agents.md",
     "CLAUDE.md",
-    "CLAUDE.md.tmp.10118.1777373831451",
-    "CLAUDE.md.tmp.10118.1777373688548",
     "research/wiki/summaries/Effective context engineering for AI agents.md",
     "research/wiki/summaries/Quantifying infrastructure noise in agentic coding evals.md",
     "research/wiki/summaries/The think tool Enabling Claude to stop and think.md",
@@ -234,12 +235,10 @@
     "research/wiki/summaries/Harness design for long-running application development.md",
     "research/wiki/summaries/Contextual Retrieval in AI Systems.md",
     "research/wiki/summaries/大模型基础认知_编译.md",
-    "CLAUDE.md.tmp.6170.1777373348668",
     "research/wiki/summaries/Indexing.md",
     "research/wiki/summaries/Making Claude Code more secure and autonomous with sandboxing.md",
     "research/wiki/summaries/Equipping agents for the real world with Agent Skills.md",
     "research/wiki/summaries/Effective harnesses for long-running agents.md",
-    "README.md",
     "research/raw/articles/Scaling Managed Agents Decoupling the brain from the hands.md",
     "research/raw/articles/Harness design for long-running application development.md",
     "research/raw/articles/Quantifying infrastructure noise in agentic coding evals.md",
