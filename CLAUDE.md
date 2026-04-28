@@ -30,8 +30,9 @@
 2. 在 `wiki/summaries/` 写编译摘要
 3. 在 `wiki/concepts/` 创建或更新相关概念条目（满足门槛时）
    - 概念存在则合并信息，标注来源差异；观点矛盾时显式标记冲突
-4. 更新 `wiki/indexes/index.md`（追加来源 + 关联概念）
-5. 更新 `wiki/indexes/log.md`（追加操作记录）
+4. 若文章含**工程构建、架构思想或其他方法论**，在 `wiki/methods/` 创建对应编译
+5. 更新 `wiki/indexes/index.md`（追加来源 + 关联概念/方法）
+6. 更新 `wiki/indexes/log.md`（追加操作记录）
 
 ### 三步编译法（L2/L3 时执行）
 
