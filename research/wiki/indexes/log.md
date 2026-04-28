@@ -92,3 +92,36 @@
 ### Git 提交
 
 - `89fd919` - comp: add 12 summaries from raw articles
+
+---
+
+## 2026-04-28 (晚间)
+
+### 方法论创建
+
+**来源**：从 `summaries/` 中的 3 篇高价值文章提取工程方法
+
+**处理文件**：
+- `Harness design for long-running application development.md` → 4 个方法
+- `Demystifying evals for AI agents.md` → 1 个方法
+- `Designing AI resistant technical evaluations.md` → 1 个方法
+
+### 创建的方法条目
+
+| 方法 | 来源 | 核心内容 |
+|------|------|----------|
+| [[Generator-Evaluator双组件架构]] | Harness design | 生成-评估迭代循环，5-15轮 |
+| [[三Agent架构]] | Harness design | Planner + Generator + Evaluator |
+| [[前端设计GradingCriteria]] | Harness design | Design/Originality/Craft/Functionality 四维 |
+| [[SprintContract协商机制]] | Harness design | 迭代前的合同对齐协议 |
+| [[AI抵抗评估设计]] | Designing AI resistant | v1→v3 版本迭代、Zachtronics 原理 |
+| [[评测构建路线图]] | Demystifying evals | Step 0-4 四步构建法 |
+
+### 索引更新
+
+- `index.md` 新增 `## ⚙️ 方法论` 章节，使用 Dataview 查询
+
+### Git 提交
+
+- `b4189d3` - refactor: add methods compilation rule to knowledge workflow
+- `a37a10a` - refactor: add file access rules to CLAUDE.md

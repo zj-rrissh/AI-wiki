@@ -49,6 +49,15 @@ SORT file.ctime DESC
 - [[Agent设计思维]] - Agent vs 传统程序
 - [[大模型基础认知]] - Transformer架构基础
 
+## ⚙️ 方法论
+
+```dataview
+TABLE source, status, confidence
+FROM "research/wiki/methods"
+LIMIT 20
+SORT file.ctime DESC
+```
+
 ---
 
 *最后更新：2026-04-23*
