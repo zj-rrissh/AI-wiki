@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2dfe1450813ef228",
+        "id": "b59bf0f35f1eced8",
         "type": "tabs",
         "children": [
           {
-            "id": "13da3f36789813c0",
+            "id": "e63152014e128381",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "research/wiki/summaries/Demystifying evals for AI agents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "Demystifying evals for AI agents"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research/wiki/indexes/2026-04-24_待办日记.md",
+                "file": "CLAUDE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-04-24_待办日记 的大纲"
+              "title": "CLAUDE 的大纲"
             }
           },
           {
@@ -171,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "research/wiki/indexes/2026-04-24_待办日记.md"
+                "file": "CLAUDE.md"
               },
               "icon": "lucide-info",
-              "title": "2026-04-24_待办日记的笔记属性"
+              "title": "CLAUDE的笔记属性"
             }
           },
           {
@@ -192,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,46 +206,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13da3f36789813c0",
+  "active": "e63152014e128381",
   "lastOpenFiles": [
-    "research/wiki/summaries/大模型基础认知_编译.md",
-    "research/wiki/summaries/agentVS传统app_编译.md",
-    "research/wiki/summaries/LangChain学习笔记_编译.md",
-    "research/raw/notes/LlamaIndex框架学习.md",
-    "research/wiki/summaries/导航_编译.md",
-    "research/raw/notes/LangChain学习笔记.md",
-    "research/raw/articles/构建高效的Agent译文&笔记.md",
+    "research/wiki/indexes/log.md.tmp.1484.1777380455719",
+    "research/wiki/indexes/index.md.tmp.1484.1777380421397",
+    "research/wiki/methods/SprintContract协商机制.md",
+    "research/wiki/methods/SprintContract协商机制.md.tmp.1484.1777380393705",
+    "research/wiki/methods/前端设计GradingCriteria.md",
+    "research/wiki/methods/前端设计GradingCriteria.md.tmp.1484.1777380393315",
+    "research/wiki/methods/评测构建路线图.md",
+    "research/wiki/methods/评测构建路线图.md.tmp.1484.1777380392894",
+    "research/wiki/methods/AI抵抗评估设计.md",
+    "research/wiki/methods/AI抵抗评估设计.md.tmp.1484.1777380392450",
+    "research/wiki/methods/三Agent架构.md",
+    "research/wiki/methods/三Agent架构.md.tmp.1484.1777380391995",
+    "research/wiki/methods/Generator-Evaluator双组件架构.md",
+    "research/wiki/methods/Generator-Evaluator双组件架构.md.tmp.1484.1777380391356",
+    "research/wiki/summaries/Designing AI resistant technical evaluations.md",
+    "research/wiki/summaries/Demystifying evals for AI agents.md",
     "CLAUDE.md",
-    "research/wiki/concepts/大模型基础认知.md",
-    "CLAUDE.md.tmp.6266.1777012039678",
+    "CLAUDE.md.tmp.10118.1777373831451",
+    "CLAUDE.md.tmp.10118.1777373688548",
+    "research/wiki/summaries/Effective context engineering for AI agents.md",
+    "research/wiki/summaries/Quantifying infrastructure noise in agentic coding evals.md",
+    "research/wiki/summaries/The think tool Enabling Claude to stop and think.md",
+    "research/wiki/summaries/Scaling Managed Agents Decoupling the brain from the hands.md",
+    "research/wiki/summaries/Harness design for long-running application development.md",
+    "research/wiki/summaries/Contextual Retrieval in AI Systems.md",
+    "research/wiki/summaries/大模型基础认知_编译.md",
+    "CLAUDE.md.tmp.6170.1777373348668",
+    "research/wiki/summaries/Indexing.md",
+    "research/wiki/summaries/Making Claude Code more secure and autonomous with sandboxing.md",
+    "research/wiki/summaries/Equipping agents for the real world with Agent Skills.md",
+    "research/wiki/summaries/Effective harnesses for long-running agents.md",
+    "README.md",
+    "research/raw/articles/Scaling Managed Agents Decoupling the brain from the hands.md",
+    "research/raw/articles/Harness design for long-running application development.md",
+    "research/raw/articles/Quantifying infrastructure noise in agentic coding evals.md",
+    "research/raw/articles/Designing AI resistant technical evaluations.md",
     "research/raw/img/v-1.svg",
     "research/raw/img/v-0.svg",
     "research/raw/img/2-transformer.png",
-    "research/wiki/concepts/Agent设计思维.md",
-    "research/wiki/concepts/Agent设计思维 1.md",
-    "research/wiki/summaries/阶段三_编译.md",
-    "research/wiki/summaries/阶段二_编译.md",
-    "research/wiki/concepts/工具调用框架.md",
-    "research/wiki/concepts/RAG.md",
-    "research/wiki/concepts/LCEL.md",
-    "research/wiki/indexes/log.md",
-    "research/wiki/indexes/index.md",
-    "README.md",
-    "research/wiki/indexes/2026-04-24_待办日记.md",
-    "research/wiki/indexes/log.md.tmp.4045.1776959153521",
-    "research/wiki/indexes/2026-04-24_待办日记.md.tmp.4045.1776959145252",
-    "未命名.canvas",
-    "README.md.tmp.4045.1776958767522",
-    "README.md.tmp.4045.1776958288423",
-    "sedh5XLYv",
-    "CLAUDE.md.tmp.1920.1776956665035",
-    "research/wiki/projects",
-    "2026-04-23.md",
-    "research/raw/articles/面向开发者的LLM入门教程.md",
-    "Clippings/构建高效的Agent译文&笔记.md",
-    "Clippings",
-    "research/wiki/indexes/index.md.tmp.66010.1776945645110",
-    "RECOMMEND.md",
-    "research/wiki/reflections/未命名.md"
+    "未命名.canvas"
   ]
 }
